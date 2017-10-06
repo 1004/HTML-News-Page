@@ -8,5 +8,5 @@
 <img src="https://github.com/jkdev-cn/HTML-News-Page/blob/master/res/02.png"/>
 <br>
 ## 新闻详情页
-<img src="https://github.com/jkdev-cn/HTML-News-Page/blob/master/res/02.png"/>
+<img src="https://github.com/jkdev-cn/HTML-News-Page/blob/master/res/03.png"/>
 <br>
